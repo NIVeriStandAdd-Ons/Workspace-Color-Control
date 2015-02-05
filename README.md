@@ -1,4 +1,4 @@
-## IP Name ##
+## Workspace Color Control ##
 
 **Workspace Color Control** is used to change the background color of the NI VeriStand workspace.
 
